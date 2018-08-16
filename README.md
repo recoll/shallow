@@ -1,0 +1,2 @@
+# shallow
+Just another repository
